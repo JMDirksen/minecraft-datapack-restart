@@ -1,1 +1,1 @@
-schedule function restart:initiate 79200s
+schedule function restart:initiate 85000s
